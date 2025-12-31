@@ -1,0 +1,142 @@
+id,category,text
+1,registration,"Ā SETU HIMACHALAM - FROM KANYAKUMARI TO THE HIMALAYAS
+
+Welcome to the CORS Registration Portal
+
+Englishहिंदी
+A
++A
+-A
+Skip main content
+Home
+About SOI
+Policies
+General Info
+Subscription Charges
+FAQs
+Contact Us
+Search
+CORS Registration
+Region
+Select Region
+Region-1
+Region-2
+Region-3
+
+Click here to know your Region
+Click here to know the Availability of CORS Services
+
+Mobile
+Captcha
+Proceed
+Documents required during the registration process!
+
+Photo Id Proof:Voter ID/Driving Licence/Aadhar Card/Pan Card"
+2,registration,Departmental ID card: For Govt and Academics users only
+3,registration,* Please download and fill the details in the annexure form for further process
+4,registration,"Contact Us
+Geodetic And Research Branch ,
+Survey of India, 17 E.C Road, DehraDun-248001."
+5,registration,"Contact us for any help here
+Phone Number : 0135-2975366,
+0135-2713296
+Offical Email: cors-grb.soi@gov.in
+
+Locate Us
+
+Website Content Owned and Managed by CORS Processing and Monitoring Center
+© 2025 CORS | Survey of India | All Rights Reserved"
+6,registration,"Last Updated on: 24-12-2025 01:29:01 PM
+
+💬"
+7,subscription,"Ā SETU HIMACHALAM - FROM KANYAKUMARI TO THE HIMALAYAS
+
+Welcome to the CORS Registration Portal
+
+Englishहिंदी
+A
++A
+-A
+Skip main content
+Home
+About SOI
+Policies
+General Info
+Subscription Charges
+FAQs
+Contact Us
+Search
+CORS Subscription
+Region
+Select Region
+Region-1
+Region-2
+
+Click here to know your Region
+Click here to know the Availability of CORS Services
+
+Mobile
+Captcha
+Proceed
+CORS Services Availability
+There are two types of Service being made available by SoI:
+Real Time Positioning Services (RTPS)
+Network RTK Services for 3 – 4 centimeter real time positioning"
+8,subscription,D-GNSS Services for 30 – 40 centimeter accurate real time positioning
+9,subscription,"Reference Data Services (RDS)
+Online Data processing of static observation with respect to CORS"
+10,subscription,Downloading of RAW Data of CORS Stations for processing in user software
+11,subscription,"The CORS services availability are divided into 3 Regions, Each region is divided into 3 Zones, based on current service availability"
+12,subscription,"Region-1
+
+Includes states of Punjab, Himachal Pradesh, Uttarakhand, Haryana, Rajasthan, Uttar Pradesh, Bihar, Madhya Pradesh, Chhattisgarh, Telangana, Assam, Arunachal Pradesh, Tripura, Manipur, Mizoram, Meghalaya, Nagaland and Union Territories of Delhi NCR, and Chandigarh"
+13,subscription,"Region 1 is further divided into 3 zones:
+
+Zone 1: All RTPS and RDS are available"
+14,subscription,Zone 2:RTPS of only 30-40 cm are available but all RDS are available
+15,subscription,"This includes the state of Bihar, parts of North Eastern states, some forest patches, and border areas in Rajasthan and Central India"
+16,subscription,Zone 3:Currently no RTPS or RDS are available due to communication issues
+17,subscription,Services in these regions will be operationalized shortly
+18,subscription,"Region-2
+
+Includes states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, Orissa, Jharkhand, West Bengal, and Sikkim and Union Territories of Dadra and Nagar Haveli and Daman and Diu, Lakshadweep, and Andaman and Nicobar Island"
+19,subscription,"Region 2 is further divided into 3 zones:
+
+Zone 1:All RTPS and RDS are available"
+20,subscription,This includes some forest patches and border areas in Central India and some parts of islands
+21,subscription,"Region 3
+
+Includes states of Andhra Pradesh and Tamil Nadu and the Union Territory of Puducherry"
+22,subscription,CORS infrastructure in Andhra Pradesh and Tamil Nadu is being operated and maintained by the State Government
+23,subscription,"Real Time Positioning Services
+
+The availability of Real Time Services of 3 – 4 centimeter RTPS using Network RTK, are available in Region 1 and Region 2 (i.e"
+24,subscription,"Zone 1 as highlighted in green wash)
+
+The availability of Real Time Services of 30 – 40 centimeter using D-GNSS services, are available in Region 1 & Region 2 (i.e"
+25,subscription,"Zone 2 as highlighted in green and yellow wash)
+
+No RTPS are currently available in Zone 3 (as highlighted in red wash)"
+26,subscription,"For RTPS in Region 3 (highlighted in blue-green), governments of Andhra Pradesh and Tamil Nadu may be contacted"
+27,subscription,"Reference Data Services
+
+Both type of Reference Data Services i.e., Online Data processing as well as Downloading of RAW Data of CORS Stations are available for entire Region 1 and Region 2 (i.e"
+28,subscription,Zone 1 and Zone 2 as highlighted in Green)
+29,subscription,RDS is not currently available in Zone 3 (highlighted in Red) through this portal
+30,subscription,"Further details regarding availability of services in these region will be provided
+
+For RDS in Region 3 (highlighted in blue-green), governments of Andhra Pradesh and Tamil Nadu may be contacted"
+31,registration,"Users can register by visiting the General Info section, opening Guidelines and Procedure Page, after that reading the Registration SOP, filling in the required details, and submitting the form."
+32,registration,"Registration requests are reviewed and activated by the next working day after submission."
+33,registration,"Once registration is activated, users receive a confirmation notification."
+34,registration,User ID and password are sent to the registered email address or phone number after registration is completed.
+35,subscription,"Users can purchase a subscription by visiting the General Info section, opening Guidelines and Procedure, and following the Purchase of CORS Subscription Plans SOP."
+36,subscription,Subscription charges and pricing details are displayed on the subscription page for each available plan.
+37,subscription,Subscriptions become active by the next working day after successful payment.
+38,subscription,"Supported payment methods for subscriptions include online options such as card payments, UPI, net banking, and other approved payment channels."
+39,network,"For Region-1, the connection details are IP address 103.205.244.106, port 2101, with mount point RTCM_VRS."
+40,network,"For Region-2, the connection details are IP address 103.206.29.4, port 2105, with mount point IVRS."
+41,network, Region 1 Station point URL: http://103.205.244.106/Map/SensorMap.aspx and Region 2 Station Point URL: http://103.206.29.4/sbc. Detailed maps for all regions are available on the official station point pages.
+42,subscription,"Plan RTK3 is a 3-month unlimited subscription for Real Time Kinematic correction services costing ₹15000 plus ₹2700 GST."
+43,subscription,"Plan RDS3 allows downloading up to 360000 epochs of CORS/VRS data for 3 months and costs ₹475 plus ₹85 GST."
+44,subscription,"Plan OPS3 provides online GNSS processing up to 360000 epochs for 3 months and costs ₹1795 plus ₹320 GST."

@@ -1,0 +1,125 @@
+timestamp,text,intent,confidence
+2025-12-23T12:19:45.809499,ijij,rag,0.0
+2025-12-23T12:51:16.429915,hi,rag,0.09909393151715655
+2025-12-23T12:51:29.350607,what is region 1 ip,rag,0.803272545337677
+2025-12-23T12:59:31.167874,what is region 1 ip address,rag,0.801832377910614
+2025-12-23T13:11:34.986246,what is the region 2 ip address,rag,0.8045486211776733
+2025-12-23T15:03:00.739845,what will be the subscription packages?,rag,0.6540084481239319
+2025-12-23T15:07:15.052513,where would be the subscription page,rag,0.7411433458328247
+2025-12-23T15:32:49.419893,what is the process of registering?,rag,0.9509845972061157
+2025-12-23T16:44:27.700971,what are the prices of the subscriptions,rag,0.8371893763542175
+2025-12-23T16:44:51.844900,what are the prices of the plan,rag,0.09909393151715655
+2025-12-23T16:45:17.343534,what is the process of registering,rag,0.9630718231201172
+2025-12-23T16:47:53.204974,what are the region ip,rag,0.7675298452377319
+2025-12-23T16:48:36.401385,what are the station points,rag,0.4709829942942348
+2025-12-23T17:02:53.920143,station points,rag,0.4709829942942348
+2025-12-24T11:59:00.788179,what is the ip address of region 1,rag,0.8065222501754761
+2025-12-24T12:06:03.158196,what are the ip address,rag,0.12625536302888515
+2025-12-24T12:06:30.686406,for region 1,rag,0.6247265338897705
+2025-12-24T12:11:23.036121,give ip address for region 1,rag,0.7982007265090942
+2025-12-24T12:22:53.365918,give ip address of region 1,rag,0.8174244165420532
+2025-12-24T12:29:15.986001,give ip address of region 1,rag,0.8174244165420532
+2025-12-24T12:37:50.152407,give ip address of region 1,fact+conversation
+2025-12-24T12:43:09.856462,give ip address of region 1,fact_not_found
+2025-12-24T12:53:22.052470,give ip address of region 1,fact_not_found
+2025-12-26T12:12:19.818611,how to register,fact_grounded_conversation
+2025-12-26T12:18:33.092757,how to register,fact_grounded_conversation
+2025-12-26T12:24:09.585499,how to register,factual
+2025-12-26T12:24:55.114767,what is the region 2 ip,factual
+2025-12-26T12:25:35.912764,how to register,factual
+2025-12-26T12:26:29.809820,what is the region 2 ip address,factual
+2025-12-26T12:37:11.610785,what is the region 2 ip address
+2025-12-26T12:37:43.517566,what is the registration process
+2025-12-26T12:44:56.849795,what is the region 2 station point
+2025-12-26T12:45:20.117768,what are the station points
+2025-12-26T12:52:03.447459,what is the region 2 station point
+2025-12-26T12:56:52.913789,what is the region 2 station point
+2025-12-26T13:02:09.692967,what is the region 2 station point
+2025-12-26T13:25:17.521490,how to register
+2025-12-26T15:46:04.517974,how to register?
+2025-12-26T16:23:56.884991,hibvfbv
+2025-12-26T16:44:15.005057,how to register
+2025-12-26T16:45:44.760660,how to register?
+2025-12-26T16:47:29.990000,give region 2 station point
+2025-12-26T16:48:08.801888,how to login in region 1
+2025-12-26T16:49:04.120486,give region 1 url
+2025-12-29T11:59:26.649478,how to register
+2025-12-29T12:16:08.291455,how to register?
+2025-12-29T12:21:07.022878,how to register
+2025-12-29T13:15:49.649718,how to register
+2025-12-29T13:20:29.432821,region 2 ip address
+2025-12-29T14:29:36.332846,how to register
+2025-12-29T14:30:27.204479,subscription plan list
+2025-12-29T14:32:53.089307,HI
+2025-12-29T14:32:59.473793,Hi
+2025-12-29T14:33:22.731617,find info about subscription plan
+2025-12-29T14:33:42.535963,can you charges of basic plan'
+2025-12-29T15:50:26.863300,give the charges of subscription plans
+2025-12-29T15:50:57.396608,what are the subscription plans
+2025-12-29T15:52:03.267125,how to register
+2025-12-29T16:16:00.434629,can you help me with registering
+2025-12-29T16:16:36.262409,what are the instructions
+2025-12-29T16:54:06.185524,how to register
+2025-12-29T16:54:24.386715,how to register?
+2025-12-29T17:33:44.737408,can you give steps for registering
+2025-12-30T12:10:54.685433,how to register?
+2025-12-30T12:13:11.551914,how to register
+2025-12-30T12:20:45.373947,how to register
+2025-12-30T12:26:50.010141,give me steps to solve
+2025-12-30T12:26:59.260128,give me steps to register
+2025-12-30T12:28:17.993711,how to see subscription plans
+2025-12-30T14:50:31.986953,how do i register?
+2025-12-30T14:53:20.885166,how do i register?
+2025-12-30T15:11:42.687391,How do I register?
+2025-12-30T15:32:38.660621,what is the support number i can contact
+2025-12-30T15:33:54.832856,what is the support number i can contact
+2025-12-30T16:18:56.545297,what is the support number i can contact
+2025-12-30T16:19:20.147855,can you give me the phone number
+2025-12-30T16:22:22.085071,can you me the support phone number
+2025-12-30T16:22:36.198460,give subscription plans
+2025-12-30T16:23:20.264998,what are the different subscription plans
+2025-12-30T16:31:14.966993,what are the different subscription plans
+2025-12-30T16:31:28.112121,how do i register
+2025-12-30T16:39:43.106327,how do i register
+2025-12-30T16:58:59.417502,subscription plans
+2025-12-30T23:08:06.099283,region 2 ip address
+2025-12-30T23:15:24.951543,station points of region 2
+2025-12-30T23:24:22.814018,bruh
+2025-12-30T23:24:36.226454,how to register?
+2025-12-30T23:24:50.261376,subcription plans
+2025-12-30T23:27:17.283192,region 2
+2025-12-30T23:27:43.565816,what 3 zones
+2025-12-30T23:27:57.179245,what green
+2025-12-31T12:18:04.570338,give contact number
+2025-12-31T12:24:08.549448,Extract and list all phone numbers
+2025-12-31T15:16:40.898577,what types of services does soi cors offer?
+2025-12-31T15:25:19.820389,what types of services does soi cors offer?
+2025-12-31T15:32:06.260969,what types of services does soi cors offer?
+2025-12-31T15:32:41.523418,what types of services does soi cors offer?
+2025-12-31T15:33:00.830206,how to register
+2025-12-31T15:33:15.253248,region 2 ip
+2025-12-31T15:33:25.437516,region 2 ip address
+2025-12-31T15:37:01.034086,how to register
+2025-12-31T15:40:14.840154,region 2 ip address
+2025-12-31T15:46:53.130919,how to register
+2025-12-31T15:48:42.080610,give subscription plans
+2025-12-31T15:55:09.559278,how to register
+2025-12-31T15:59:31.366777,how to register
+2025-12-31T16:01:06.685967,how to register
+2025-12-31T16:07:35.131805,how to register
+2025-12-31T16:11:17.297801,how to register
+2025-12-31T16:16:11.544452,how to register
+2025-12-31T16:19:19.332713,how to register
+2025-12-31T16:20:15.703978,what are the subscription plans with prices?
+2025-12-31T16:20:30.505361,subscription plans
+2025-12-31T16:22:43.520657,subscription plans
+2025-12-31T16:23:07.759054,region 2 ip address
+2025-12-31T16:39:03.361756,how to register
+2025-12-31T16:39:14.904719,subscription plans
+2025-12-31T16:45:24.654583,how to register?
+2025-12-31T16:56:49.780293,how to register
+2025-12-31T16:57:02.721161,what are the subscription plans
+2025-12-31T17:03:02.543084,how to register
+2025-12-31T17:03:27.158530,what are the subscription plans
+2025-12-31T17:11:41.990868,how to register
+2025-12-31T17:11:55.552613,what are the subscription plans
